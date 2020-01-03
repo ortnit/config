@@ -29,7 +29,9 @@
         relative to the ruleset's location, and that specifying any file or
         directory path on the command line will ignore all file tags.
      -->
-    <file>./src</file>
+    <file>src</file>
+    <file>test</file>
+    <file>example</file>
 
     <!--
        You can hard-code ignore patterns directly into your
